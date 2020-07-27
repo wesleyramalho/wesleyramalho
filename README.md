@@ -1,8 +1,10 @@
 ### Hi, I'm Wesley! 👨🏽‍💻
 
 <p align="center">
+  <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank">
   <img src="https://github.com/wesleyramalho/wesleyramalho/blob/master/head.svg" width="100%"
   alt="Wesley Ramalho" />
+  </a>
 </p>
 <p align="center">
   I'm a software developer focused in: JavaScript | ReactJS | HTML5 | CSS3 | UX | UI
