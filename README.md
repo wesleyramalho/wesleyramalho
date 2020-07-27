@@ -1,7 +1,7 @@
 ### Hi, I'm Wesley! 👨🏽‍💻
 
 <p align="center">
-  <img src="./head.svg" width="100%"
+  <img src="https://github.com/wesleyramalho/wesleyramalho/blob/master/head.svg" width="100%"
   alt="Wesley Ramalho" />
 </p>
 <p align="center">
