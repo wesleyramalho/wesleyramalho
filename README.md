@@ -32,6 +32,8 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 
 ## My skills:
 
+*I know how to find lots of answers using google and stackoverflow*
+
 ### Languages:
 
 
