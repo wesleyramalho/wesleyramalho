@@ -1,7 +1,9 @@
 ## Hi, I'm Wesley! 👨🏽‍💻
 ### 
 ```
-I'm a software developer focused in front-end development. I'm also learning more about back-end development, functional programming and relational/non-relational databases. I like to learn about data structures and algorithms. I'm not so good with math, but I'm also working on it. Maybe one day I'll learn more about IA.
+I'm a software developer focused in front-end development. I'm also learning more about back-end development, 
+functional programming and relational/non-relational databases. I like to learn about data structures and 
+algorithms. I'm not so good with math, but I'm also working on it. Maybe one day I'll learn more about AI.
 ```
 
 <p align="center">
