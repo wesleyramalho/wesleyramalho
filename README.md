@@ -1,9 +1,10 @@
 ## Hi, I'm Wesley! 👨🏽‍💻
 ### 
 
-I'm a software developer focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS). I'm also learning more about back-end development, 
+
+I'm a software developer focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS). [I'm also learning more about back-end development, 
 functional programming and relational/non-relational databases. I like to learn about data structures and 
-algorithms. I'm not so good with math, but I'm also working on it. Maybe one day I'll learn more about AI.
+algorithms. I'm not so good with math, but I'm also working on it. Maybe one day I'll learn more about AI](https://github.com/wesleyramalho/my-skills/blob/master/README.md).
 
 
 <p align="center">
