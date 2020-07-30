@@ -1,10 +1,10 @@
 ## Hi, I'm Wesley! 👨🏽‍💻
 ### 
-```
-I'm a software developer focused in front-end development. I'm also learning more about back-end development, 
+
+I'm a software developer focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS). I'm also learning more about back-end development, 
 functional programming and relational/non-relational databases. I like to learn about data structures and 
 algorithms. I'm not so good with math, but I'm also working on it. Maybe one day I'll learn more about AI.
-```
+
 
 <p align="center">
   <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank">
@@ -32,7 +32,22 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 
 ## My skills:
 
-*I know how to find lots of answers using google and stackoverflow*
+*I know how to **find lots of answers** using google and stackoverflow*
+
+I'm focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS), but this is a compilation of some skills I also have, separated by some groups of stacks.
+
+
+
+### Languages I speak:
+
+| Name | Tags |
+| ------ | ------ |
+| Portuguese (I'm a native) | advanced work-experience college-experience |
+| English | advanced work-experience college-experience |
+| Spanish | beginner |
+
+
+
 
 ### Languages:
 
@@ -40,38 +55,57 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 
 | Name | Tags |
 | ------ | ------ |
-| JavaScript |  |
-| Java |  |
-| C# |  |
-| C/C++ |  |
-| Python |  |
-| SQL |  |
-| HTML *(never forget, this isn't a programming language, thanks)* |  |
-| CSS |  |
+| JavaScript | advanced work-experience college-experience |
+| Java | beginner work-experience college-experience |
+| C# | beginner work-experience college-experience |
+| C/C++ | beginner college-experience |
+| Python | beginner |
+| PHP | beginner college-experience |
 
-### Front-end frameworks:
+### Front-end:
 
 | Name | Tags |
 | ------ | ------ |
-| React |  |
-| AngularJS |  |
-| Vue.js |  |
+| HTML5 *(never forget, this isn't a programming language, thanks)* | advanced work-experience college-experience |
+| CSS3 | advanced work-experience college-experience |
+| React | advanced work-experience college-experience |
+| AngularJS (1.5.3) | intermediate work-experience college-experience |
+
+### Back-end:
+
+| Name | Tags |
+| ------ | ------ |
+| Relational Databases (MySQL, SQLServer, PostgreSQL) and NoSQL (MongoDb)| beginner work-experience college-experience |
+| NodeJS | beginner work-experience college-experience |
+| SQL | beginner work-experience college-experience |
+| REST APIs | advanced work-experience college-experience |
+
+### Mobile:
+| Name | Tags |
+| ------ | ------ |
+| Android development with Java | beginner work-experience |
+| React Native | beginner work-experience |
 
 ### Graphic design tools:
 
 | Name | Tags |
 | ------ | ------ |
-| Adobe Illustrator |  |
-| Adobe Photoshop |  |
-| Adobe Premiere |  |
+| Adobe Illustrator | intermediate work-experience college-experience |
+| Adobe Photoshop | intermediate work-experience college-experience |
+| Adobe Premiere | beginner work-experience |
+| Adobe XD | beginner work-experience |
 
 
 ### Operational systems:
 
 | Name | Tags |
 | ------ | ------ |
-| Windows |  |
-| Linux |  |
-| MacOS |  |
+| Windows | advanced work-experience college-experience |
+| Linux (Debian, Ubuntu, Mint) | intermediate work-experience college-experience |
+| MacOS | intermediate work-experience college-experience |
 
+### Other:
 
+| Name | Tags |
+| ------ | ------ |
+| Git | intermediate work-experience college-experience |
