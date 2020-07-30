@@ -70,6 +70,8 @@ I'm focused in **front-end technologies and web applications** (single-page appl
 | CSS3 | advanced work-experience college-experience |
 | React | advanced work-experience college-experience |
 | AngularJS (1.5.3) | intermediate work-experience college-experience |
+| Sass | intermediate work-experience college-experience |
+| Less | intermediate work-experience |
 
 ### Back-end:
 
