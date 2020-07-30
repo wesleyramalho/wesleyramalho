@@ -111,3 +111,7 @@ I'm focused in **front-end technologies and web applications** (single-page appl
 | Name | Tags |
 | ------ | ------ |
 | Git | intermediate work-experience college-experience |
+| TDD and Integration tests | beginner work-experience |
+| AWS (S3, Lambdas, EC2) | beginner work-experience |
+| Azure (Azure Functions) | beginner work-experience |
+| Agile and Scrum | intermediate work-experience |
