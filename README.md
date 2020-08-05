@@ -18,7 +18,7 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 
 > 🇧🇷 Brazilian, 23 years old 
 
-> 📌 Based in <b>São Paulo</b>, <b>Brazil</b> 
+> 📌 Based in <b>Sao Paulo</b>, <b>Brazil</b> 
 
 > 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
 
