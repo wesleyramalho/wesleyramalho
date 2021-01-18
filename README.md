@@ -36,4 +36,4 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 *I know how to **find lots of answers** using google and stackoverflow*
 
 
-I'm focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS), [but this is a compilation of some skills I also have, separated by some groups of stacks](https://github.com/wesleyramalho/my-skills/blob/master/README.md).
+I'm focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS), [but this is a compilation of some skills I also have, grouped by stacks](https://github.com/wesleyramalho/my-skills/blob/master/README.md).
