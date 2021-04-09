@@ -16,7 +16,7 @@ algorithms. I'm not so good with math, but I'm also working on it. Maybe one day
 
 ## About me:
 
-> 🇧🇷 Brazilian, 23 years old 
+> 🇧🇷 Brazilian, 24 years old 
 
 > 📌 Based in <b>Sao Paulo</b>, <b>Brazil</b> 
 
