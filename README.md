@@ -20,7 +20,7 @@
 
 > 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
 
-> 💻 Currently, Front-End Developer at <a href="https://www.icarros.com.br/principal/index.jsp" alt="iCarros link" target="blank">iCarros</a> | <a href="https://www.itau.com.br/" alt="Itaú link" target="blank">Grupo Itaú Unibanco</a>
+> 💻 Currently, Front-End Developer at <a href="https://popstand.com/" alt="Popstand link" target="blank">Popstand</a>
 
 > 🎧 Independent <a href="https://soundcloud.com/user-680100556?ref=clipboard" alt="SoundCloud link" target="blank">artist</a> and producer in my free time
 
