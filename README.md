@@ -22,8 +22,6 @@
 
 > 💻 Currently, Front-End Developer at <a href="https://popstand.com/" alt="Popstand link" target="blank">Popstand</a>
 
-> 🎧 Independent <a href="https://soundcloud.com/user-680100556?ref=clipboard" alt="SoundCloud link" target="blank">artist</a> and producer in my free time
-
 > 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">Linkedin</a>
 
 > 🐦 <a href="https://twitter.com/wescode_" alt="Twitter link" target="blank">Twitter</a>
