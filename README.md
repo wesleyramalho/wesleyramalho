@@ -20,11 +20,9 @@
 
 > 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
 
-> 💻 Currently, Front-End Developer at <a href="https://popstand.com/" alt="Popstand link" target="blank">Popstand</a>
+> 💻 Currently, Senior Front-End Developer at <a href="https://x-team.com/" alt="x-team link" target="blank">X-Team</a>
 
 > 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">Linkedin</a>
-
-> 🐦 <a href="https://twitter.com/wescode_" alt="Twitter link" target="blank">Twitter</a>
 
 
 ## My skills:
