@@ -2,7 +2,7 @@
 ### 
 
 
-[I'm a software developer focused in front-end technologies and web applications (single-page applications with JS, HTML and CSS) . I have over 5 years of experience using JavaScript and ReactJS on real projects and I'm trying to learn more about data structures and algorithms, unit and integration tests. I also have some knowledge in UX/UI design processes and can help planning and validating RESTFul API's and software requirements applied with agile methodologies. ](https://github.com/wesleyramalho/my-skills/blob/master/README.md)
+[I'm a software developer focused in front-end technologies and web applications (single-page applications with JS, HTML and CSS) . I have over 6-7 years of experience using JavaScript and ReactJS on real projects and I'm trying to learn more about data structures and algorithms, unit and integration tests. I also have some knowledge in UX/UI design processes and can help planning and validating RESTFul API's and software requirements applied with agile methodologies. ](https://github.com/wesleyramalho/my-skills/blob/master/README.md)
 
 
 <p align="center">
