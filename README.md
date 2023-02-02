@@ -16,7 +16,7 @@
 
 > 🇧🇷 Brazilian, 26 years old 
 
-> 📌 Based in <b>Sao Paulo</b>, <b>Brazil</b> 
+> 📌 Based in <b>São Paulo</b>, <b>Brazil</b> 
 
 > 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
 
