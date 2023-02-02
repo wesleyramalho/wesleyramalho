@@ -14,7 +14,7 @@
 
 ## About me:
 
-> 🇧🇷 Brazilian, 25 years old 
+> 🇧🇷 Brazilian, 26 years old 
 
 > 📌 Based in <b>Sao Paulo</b>, <b>Brazil</b> 
 
