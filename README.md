@@ -20,7 +20,7 @@
 
 > 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
 
-> 💻 Currently, Senior Front-End Developer at <a href="https://x-team.com/" alt="x-team link" target="blank">X-Team</a>
+> 💻 Currently, Senior Front-End Developer
 
 > 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">Linkedin</a>
 
