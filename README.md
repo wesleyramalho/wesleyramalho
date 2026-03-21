@@ -1,13 +1,11 @@
 ## Hi, I'm Wesley! 👨🏽‍💻
-### 
+### Senior Software Engineer — AI Specialist & Frontend
 
-
-[I'm a software developer focused in front-end technologies and web applications (single-page applications with JS, HTML and CSS) . I have over 9+ years of experience using JavaScript and ReactJS on real projects and I'm trying to learn more about data structures and algorithms, unit and integration tests. I also have some knowledge in UX/UI design processes and can help planning and validating RESTFul API's and software requirements applied with agile methodologies. ](https://github.com/wesleyramalho/my-skills/blob/master/README.md)
- 
+I'm a full-stack engineer with deep front-end expertise and 9+ years of production experience. I specialize in building high-performance web applications with JavaScript, TypeScript, React, and Next.js. I've worked on platforms serving 12M+ and 18M+ unique monthly visitors, delivered projects for Disney and Mattel, and contributed to teams at Zappos (Amazon) and Itaú bank. I'm currently pursuing a Postgraduate degree in Artificial Intelligence & Machine Learning, expanding my expertise beyond front-end into AI-powered products.
 
 <p align="center">
   <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank">
-  <img src="https://github.com/wesleyramalho/wesleyramalho/blob/master/head.svg"  width="100%"
+  <img src="https://raw.githubusercontent.com/wesleyramalho/wesleyramalho/master/wesley-image.png" width="100%"
   alt="Wesley Ramalho" />
   </a>
 </p>
@@ -16,18 +14,36 @@
 
 > 🇧🇷 Brazilian
 
-> 📌 Based in <b>São Paulo</b>, <b>Brazil</b> 
+> 📌 Based in **São Paulo**, **Brazil**
 
-> 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank"> @wescode_</a>
+> 💼 Currently Senior Software Engineer at **Tecla (CredoAI)** — Remote, United States
 
-> 💻 Currently, Senior Front-End Developer
+> 🎓 Postgraduate in **Artificial Intelligence & Machine Learning** — PUC Minas (2025–2026)
 
-> 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">Linkedin</a>
+> 🤖 AI Specialist + Frontend focus
 
+> 🌐 Personal website at <a href="https://wesleyramalho.com" alt="Personal website" target="blank">wesleyramalho.com</a>
+
+> 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank">@wescode_</a>
+
+> 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">LinkedIn</a>
+
+## Experience highlights:
+
+- **Tecla (CredoAI)** — Senior Software Engineer, Apr 2025–Present
+- **Truelogic / Zappos (Amazon)** — Senior Software Engineer, Oct 2024–Jul 2025 · Led Marty initiative for 18M+ monthly visitors, +8–12% session uplift via A/B testing
+- **Tecla (OnChain Studios)** — Senior Front-end Engineer, Oct 2023–Jun 2024 · Disney & Mattel pages, NFT/Amazon API integration
+- **X-Team** — Senior Front-end Engineer, Sep 2021–Sep 2023 · Remote, Australia
+- **iCarros (Itaú)** — Front-end Developer, Mar 2020–May 2021 · 12M+ unique monthly accesses, micro front-end architecture
 
 ## My skills:
 
-*I know how to **find lots of answers** using google and stackoverflow*
+**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, GSAP, Storybook
 
+**Backend:** Node.js, Express, REST APIs, AWS Lambda
 
-I'm focused in **front-end technologies and web applications** (single-page applications with JS, HTML and CSS), [but this is a compilation of some skills I also have, grouped by stacks](https://github.com/wesleyramalho/my-skills/blob/master/README.md).
+**AI/ML:** AI integrations, currently studying (PUC Minas postgraduate)
+
+**Testing:** Jest, Cypress, Testing Library
+
+**Tools:** Docker, Git, Agile, Figma / UX–UI processes
