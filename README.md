@@ -1,6 +1,6 @@
 ## Hi, I'm Wesley! 👨🏽‍💻
 
-### Senior Software Engineer — AI Specialist & Frontend
+### Senior Software Engineer | AI Specialist & Frontend
 
 I'm a full-stack engineer with deep front-end expertise and 9+ years of production experience. I specialize in building high-performance web applications with JavaScript, TypeScript, React, and Next.js. I've worked on platforms serving 12M+ and 18M+ unique monthly visitors, delivered projects for Disney and Mattel, and contributed to teams at Zappos (Amazon) and Itaú bank. I'm currently pursuing a Postgraduate degree in Artificial Intelligence & Machine Learning, expanding my expertise beyond front-end into AI-powered products.
 
