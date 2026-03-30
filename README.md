@@ -25,8 +25,6 @@ I'm a full-stack engineer with deep front-end expertise and 9+ years of producti
 
 > 🌐 Personal website at <a href="https://wesleyramalho.com" alt="Personal website" target="blank">wesleyramalho.com</a>
 
-> 🖥️ Content creator at <a href="https://instagram.com/wescode_" alt="Instagram link" target="blank">@wescode\_</a>
-
 > 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">LinkedIn</a>
 
 ## Experience highlights:
