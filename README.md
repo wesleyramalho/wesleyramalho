@@ -30,7 +30,7 @@ I'm a full-stack engineer with deep front-end expertise and 9+ years of producti
 ## Experience highlights:
 
 - **Tecla (CredoAI)** — Senior Software Engineer, Apr 2025–Present
-- **Truelogic / Zappos (Amazon)** — Senior Software Engineer, Oct 2024–Jul 2025 · Led Marty initiative for 18M+ monthly visitors, +8–12% session uplift via A/B testing
+- **Truelogic / Zappos (Amazon)** — Senior Software Engineer, Oct 2024–Jul 2025 · Led Marty initiative for 18M+ monthly visitors.
 - **Tecla (OnChain Studios)** — Senior Front-end Engineer, Oct 2023–Jun 2024 · Disney & Mattel pages, NFT/Amazon API integration
 - **X-Team** — Senior Front-end Engineer, Sep 2021–Sep 2023 · Remote, Australia
 - **iCarros (Itaú)** — Front-end Developer, Mar 2020–May 2021 · 12M+ unique monthly accesses, micro front-end architecture
