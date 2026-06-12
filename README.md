@@ -17,9 +17,9 @@ I'm a full-stack engineer with deep front-end expertise and 9+ years of producti
 
 > 📌 Based in **São Paulo**, **Brazil**
 
-> 💼 Currently Senior Software Engineer at **Tecla (CredoAI)** — Remote, United States
+> 💼 Currently Senior Software Engineer at **Tecla (CredoAI)** (Remote, United States)
 
-> 🎓 Postgraduate in **Artificial Intelligence & Machine Learning** — PUC Minas (2025–2026)
+> 🎓 Postgraduate in **Artificial Intelligence & Machine Learning**, PUC Minas (2025–2026)
 
 > 🤖 AI Specialist + Frontend focus
 
@@ -29,11 +29,11 @@ I'm a full-stack engineer with deep front-end expertise and 9+ years of producti
 
 ## Experience highlights:
 
-- **Tecla (CredoAI)** — Senior Software Engineer, Apr 2025–Present
-- **Truelogic / Zappos (Amazon)** — Senior Software Engineer, Oct 2024–Jul 2025 · Led Marty initiative for 18M+ monthly visitors.
-- **Tecla (OnChain Studios)** — Senior Front-end Engineer, Oct 2023–Jun 2024 · Disney & Mattel pages, NFT/Amazon API integration
-- **X-Team** — Senior Front-end Engineer, Sep 2021–Sep 2023 · Remote, Australia
-- **iCarros (Itaú)** — Front-end Developer, Mar 2020–May 2021 · 12M+ unique monthly accesses, micro front-end architecture
+- **Tecla (CredoAI)** Senior Software Engineer, Apr 2025–Present
+- **Truelogic / Zappos (Amazon)** Senior Software Engineer, Oct 2024–Jul 2025 · Led Marty initiative for 18M+ monthly visitors.
+- **Tecla (OnChain Studios)** Senior Front-end Engineer, Oct 2023–Jun 2024 · Disney & Mattel pages, NFT/Amazon API integration
+- **X-Team** Senior Front-end Engineer, Sep 2021–Sep 2023 · Remote, Australia
+- **iCarros (Itaú)** Front-end Developer, Mar 2020–May 2021 · 12M+ unique monthly accesses, micro front-end architecture
 
 ## My skills:
 
