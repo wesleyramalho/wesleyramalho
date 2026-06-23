@@ -25,14 +25,6 @@ I'm a full-stack engineer with deep front-end expertise and 9+ years of producti
 
 > 👔 <a href="https://br.linkedin.com/in/wesley-ramalho-245bb5b1" alt="Linkedin link" target="blank">LinkedIn</a>
 
-## Experience highlights:
-
-- **Tecla (CredoAI)** Senior Software Engineer, Apr 2025–Present
-- **Truelogic / Zappos (Amazon)** Senior Software Engineer, Oct 2024–Jul 2025, Zappos (e-commerce with 18M+ monthly visitors).
-- **Tecla (OnChain Studios)** Senior Front-end Engineer, Oct 2023–Jun 2024, Disney & Mattel pages, NFT/Amazon API integration
-- **X-Team** Senior Front-end Engineer, Sep 2021–Sep 2023, Remote, Australia
-- **iCarros (Itaú)** Front-end Developer, Mar 2020–May 2021, 12M+ unique monthly accesses, micro front-end architecture
-
 ## My skills:
 
 **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, GSAP, Storybook
